@@ -1,5 +1,5 @@
 # GOST block cipher
-This is a simple C implementation of the GOST block cipher as specified in https://en.wikipedia.org/wiki/GOST_(block_cipher). This is only for educational purposes don't use it for anything serious. 
+This is a simple C implementation of the GOST block cipher as specified in https://en.wikipedia.org/wiki/GOST_(block_cipher). For modes of operations currently only the cipher block chaining CBC mode is supported. This is only for educational purposes don't use it for anything serious. 
 
 # Usage
 To build and run the test simply run
